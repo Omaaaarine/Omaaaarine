@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on (nothing).
+- 🌱 I’m currently in School.
+- 👯 I’m looking to collaborate on anything big.
+- 🤔 I’m looking for help with life.
+- 💬 Ask me about my day.
+- 📫 How to reach me: On insta: 3.am0ra (tell me u came from Github)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm from Egypt and currently living in the Middle East.
+
 <!--
 **Omaaaarine/Omaaaarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
